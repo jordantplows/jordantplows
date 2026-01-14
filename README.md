@@ -1,16 +1,14 @@
-## Hi there 👋
+## Brief Intro
 
-<!--
-**jordantplows/jordantplows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p> I am a self-taught fullstack software engineer, currently working an AI agent startup that interacts with the entire web headless. You find my most recent projects that I have worked on in my pinned repositories </p>
 
-Here are some ideas to get you started:
+### Areas of Interest 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I want to explore biotech and AI. I am deeply curious about the role AI can play as it pertains to synthetic blood and synthetic organs. Recently models I have sparked additionaly curisotiy. Here are a few of those links: https://github.com/HannesStark/boltzgen. 
+
+- I have an wide range of curiosity of what future LLM's might look like. It's hard to make a specific description. All the obvious use-cases are public. I am dedicating a portion of my time in 2026 to training models for friends and their startups that might accelerate and improve their businesses.
+
+</p> I will continue to use this as my personal portfolio with the sole focus being AI across multiple disciplinaries
+
+
+
