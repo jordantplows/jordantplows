@@ -8,7 +8,7 @@
 
 - I have an wide range of curiosity of what future LLM's might look like. It's hard to make a specific description. All the obvious use-cases are public. I am dedicating a portion of my time in 2026 to training models for friends and their startups that might accelerate and improve their businesses.
 
-</p> I will continue to use this as my personal portfolio with the sole focus being AI across multiple disciplinaries
+</p> I will continue to use this as my personal portfolio with the sole focus bringing AI across multiple disciplinaries
 
 
 
