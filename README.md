@@ -1,4 +1,4 @@
-## Brief Intro
+## What I work on
 
 </p> I am a self-taught fullstack software engineer, currently working an AI agent startup that interacts with the entire web headless. You find my most recent projects that I have worked on in my pinned repositories </p>
 
