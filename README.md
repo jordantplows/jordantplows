@@ -10,5 +10,9 @@
 
 </p> I will continue to use this as my personal portfolio with the sole focus bringing AI across multiple disciplinaries
 
+### Research 
+
+Actively working on biotech research to advance our understanding of brain tumors using AI @projectdeng/projectdeng.org
+
 
 
