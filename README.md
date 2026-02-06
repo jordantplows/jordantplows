@@ -12,7 +12,7 @@
 
 ### Research 
 
-Actively working on biotech research to advance our understanding of brain tumors using AI @projectdeng/projectdeng.org
+Actively working on biotech research to advance our understanding of brain tumors using AI https://github.com/projectdeng
 
 
 
